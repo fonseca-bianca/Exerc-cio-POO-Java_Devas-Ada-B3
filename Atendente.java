@@ -5,7 +5,7 @@ public final class Atendente extends Funcionario {
 
     // Método final
     public final void atenderCliente() {
-        System.out.println("Atendendo ao cliente...");
+        System.out.println("Atendendo o cliente x");
     }
 
     @Override
